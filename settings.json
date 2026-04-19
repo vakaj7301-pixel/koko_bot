@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "meow-f3Bo.aternos.me",
+    "ip": "meow-f3Bo.aternos.me:24418",
     "port": 24418,
     "version": "",
     "try-creative": false
